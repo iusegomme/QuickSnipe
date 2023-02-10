@@ -1,0 +1,9 @@
+{
+  "SNIPERNAME": "Cheat",
+  "TOKEN": "eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQxNTY4Nzg5MTgwMCIsImFnZyI6IkFkdWx0Iiwic3ViIjoiOTIzMTc4NWQtNjVkYi00MTMzLTkyZGItNTlmYWM2M2ZiZTFjIiwibmJmIjoxNjcwMzMyNDMwLCJhdXRoIjoiWEJPWCIsInJvbGVzIjpbXSwiaXNzIjoiYXV0aGVudGljYXRpb24iLCJleHAiOjE2NzA0MTg4MzAsImlhdCI6MTY3MDMzMjQzMCwicGxhdGZvcm0iOiJVTktOT1dOIiwieXVpZCI6ImUwOTg1NjVlZTYzOTkwZGMwYTdlZjY2ZDQwMGMzYzY2In0.dP1b9ytbSnS54UOllS49OliwMl5WTotM8MuP6sPbZKI",
+  "INFO": "How I get the token? https://kqzz.github.io/mc-bearer-token/",
+  "webhook": "https://discord.com/api/webhooks/1052652298259664926/fRTbuahgr0bgmG76Sw8M_saWBLWzbxu3MEt_OgEg86uAJoA4KBEhY8j-pyrXwuyocFtO",
+  "delay": 10,
+  "amount": 5,
+  "howMuchNamesWillSnipeAtTheSameTime": 1
+}
