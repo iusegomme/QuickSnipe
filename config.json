@@ -2,8 +2,5 @@
   "SNIPERNAME": "Cheat",
   "TOKEN": "",
   "INFO": "How I get the token? https://kqzz.github.io/mc-bearer-token/",
-  "webhook": "https://discord.com/api/webhooks/1052652298259664926/fRTbuahgr0bgmG76Sw8M_saWBLWzbxu3MEt_OgEg86uAJoA4KBEhY8j-pyrXwuyocFtO",
-  "delay": 10,
-  "amount": 5,
-  "howMuchNamesWillSnipeAtTheSameTime": 1
+  "delay": 10
 }
